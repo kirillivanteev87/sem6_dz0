@@ -1,0 +1,15 @@
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/sem6_dz0.csproj.AssemblyReference.cache
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/sem6_dz0.GeneratedMSBuildEditorConfig.editorconfig
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/sem6_dz0.AssemblyInfoInputs.cache
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/sem6_dz0.AssemblyInfo.cs
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/sem6_dz0.csproj.CoreCompileInputs.cache
+/home/kirill/Документы/VSCode/sem6_dz0/bin/Debug/net6.0/sem6_dz0
+/home/kirill/Документы/VSCode/sem6_dz0/bin/Debug/net6.0/sem6_dz0.deps.json
+/home/kirill/Документы/VSCode/sem6_dz0/bin/Debug/net6.0/sem6_dz0.runtimeconfig.json
+/home/kirill/Документы/VSCode/sem6_dz0/bin/Debug/net6.0/sem6_dz0.dll
+/home/kirill/Документы/VSCode/sem6_dz0/bin/Debug/net6.0/sem6_dz0.pdb
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/sem6_dz0.dll
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/refint/sem6_dz0.dll
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/sem6_dz0.pdb
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/sem6_dz0.genruntimeconfig.cache
+/home/kirill/Документы/VSCode/sem6_dz0/obj/Debug/net6.0/ref/sem6_dz0.dll
